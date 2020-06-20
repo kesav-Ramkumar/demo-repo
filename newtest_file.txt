@@ -1,3 +1,8 @@
 testing file for the first time
 
+<<<<<<< HEAD
 hello
+=======
+
+"hello"
+>>>>>>> branch2
